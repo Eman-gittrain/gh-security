@@ -12,7 +12,7 @@ function HelpBox({ title, text }) {
 }
 
 HelpBox.propTypes = {
-  title: string,
+  title: sting,
   text: string,
 };
 
